@@ -70,8 +70,7 @@ First, run the development server:
 
 ```bash
 git clone <repository-url>
-cd frontend
-npm install
+cd kanban-frontend
 npm run dev
 ```
 
@@ -85,8 +84,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 ```bash
 git clone <repository-url>
-cd kanban-board
-cd backend
+cd kanban-backend
 npm install
 ```
 
